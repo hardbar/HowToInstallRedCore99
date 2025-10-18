@@ -1,3 +1,6 @@
+# About RedCore99
+This software is publicly available, customisable and easy to install. The software aims to provide intellectuals with stimulated brain activity for at least 3 minutes and 33 seconds. Explore the world of RedCore99 now.
+
 # HowToInstallRedCore99
 
 # How to install RedCore99 application
